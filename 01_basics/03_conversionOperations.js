@@ -33,5 +33,24 @@ let booleanMyStr = Boolean(myStr);
 
 let myNumber = 33;
 let myStrNumber = String(myNumber);
-console.log(myStrNumber);
-console.log(typeof myStrNumber);
+// console.log(myStrNumber);
+// console.log(typeof myStrNumber);
+
+
+// *************************** Operations **********************
+let positiveValue = 3;
+let negativeValue = -positiveValue;
+// console.log(negativeValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+let str1 = "Shivam ";
+let str2 = "Patel";
+
+let str3 = str1 + str2;
+console.log(str3);
